@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca1bf94-4ef6-45b5-956c-480c5d39002c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/FBIAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FBIAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Terrorist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Terrorist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/bringjustice/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bringjustice/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/bringjustice/Terrorist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bringjustice/Terrorist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sqlite/SQLite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlite/SQLite.java" afterDir="false" />
-    </list>
+    <list default="true" id="bca1bf94-4ef6-45b5-956c-480c5d39002c" name="Changes" comment="leet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +53,23 @@
       <option name="presentableId" value="Default" />
       <updated>1684220837325</updated>
     </task>
+    <task id="LOCAL−00001" summary="leet">
+      <created>1685825833467</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1685825833467</updated>
+    </task>
+    <task id="LOCAL−00002" summary="leet">
+      <created>1685825880010</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1685825880010</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leet" />
+    <option name="LAST_COMMIT_MESSAGE" value="leet" />
   </component>
 </project>
