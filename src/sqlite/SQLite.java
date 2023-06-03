@@ -1,3 +1,7 @@
+package sqlite;
+
+import com.example.bringjustice.Terrorist;
+
 import java.sql.*;
 public class SQLite {
     private Connection connection;
@@ -71,6 +75,25 @@ public class SQLite {
             System.out.println(e.getMessage() + " fel med att hämta användare");
         } return null;
 
+    }
+    public void updateStatus(Terrorist terrorist, String action) {
+        String a = "";
+        if (action.equals("kill")) {
+            a = "K";
+        } else {
+            a = "C";
+        }
+
+        String sql = "UPDATE Terrorist SET Alive = ? WHERE Terrorist_id = ?";
+
+        try {
+            PreparedStatement p = connection.prepareStatement(sql);
+            p.setString(1, a);
+            p.setInt(2, security(terrorist));
+            p.executeUpdate();
+        } catch (SQLException e) {
+            System.out.println(e.getMessage() + " fel med att uppdatera status");
+        }
     }
 
 

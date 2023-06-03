@@ -1,2 +1,4 @@
-package com.example.bringjustice;public class Terrorist {
+package com.example.bringjustice;
+
+public class Terrorist {
 }
