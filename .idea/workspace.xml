@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca1bf94-4ef6-45b5-956c-480c5d39002c" name="Changes" comment="" />
+    <list default="true" id="bca1bf94-4ef6-45b5-956c-480c5d39002c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/FBIAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FBIAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Terrorist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Terrorist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/bringjustice/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bringjustice/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/bringjustice/Terrorist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bringjustice/Terrorist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sqlite/SQLite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlite/SQLite.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,10 +35,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.15172414"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.bringjustice" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
