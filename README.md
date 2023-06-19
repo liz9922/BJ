@@ -29,4 +29,4 @@ Felhantering och undantagshantering: Att hantera fel och undantag korrekt var en
 
 Projektplanering och design: En noggrann planering och design i början av projektet hjälpte till att strukturera arbetet och undvika eventuella fallgropar längs vägen. Det gav även möjlighet att tänka igenom och identifiera eventuella problemområden i förväg.
 
-Sammanfattningsvis var arbetet med att skapa en Java-applikation för hantering av terrorister och spelare lärorikt och utmanande. Genom att övervinna hinder och lösa problem längs vägen förbättrades mina färdigheter inom API-integration, databashantering och felhantering. Projektet bidrog till en djupare förståelse för att arbeta med externa resurser och att implementera robusta och säkra applikationer.
+Sammanfattningsvis var arbetet med att skapa en Java-applikation för hantering av terrorister och spelare lärorikt och utmanande. Genom att övervinna hinder och lösa problem längs vägen förbättrades mina färdigheter inom API-integration och databashantering. Projektet bidrog till en djupare förståelse för att arbeta med externa resurser och att implementera robusta och säkra applikationer.
